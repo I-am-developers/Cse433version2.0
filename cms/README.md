@@ -1,12 +1,5 @@
-# City-Without-Crime
+Added a search box in reguser file here user can find crime news by searching area name
 
+To login as user there alreadey created an user ID: imranemon Pass :imran007
 
-Description :
-  It is a simple website that manages online crime management system.
- 
- Server Site Scripting done using PHP.
-  For Database we used MYSQL.
-  For Front-End we used HTML,CSS,JAVASCRIPT.
-  
-  
-
+Or you can create your own user id 
